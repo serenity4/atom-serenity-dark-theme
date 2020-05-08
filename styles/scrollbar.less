@@ -1,0 +1,30 @@
+::-webkit-scrollbar {
+	width: 12px;
+}
+
+::-webkit-scrollbar-track {
+	border-radius: 6px;
+	background: #6C6760;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 6px;
+	background-color: lighten(@app-background-color, 30%);
+}
+
+atom-text-editor ::-webkit-scrollbar-track {
+	border-radius: 6px;
+	background: lighten(@app-background-color, 10%);
+}
+
+atom-text-editor ::-webkit-scrollbar-thumb {
+	border-radius: 6px;
+	border-color: #C6C697;
+	background: lighten(@app-background-color, 30%);
+}
+
+atom-text-editor ::-webkit-scrollbar-corner {
+	border-radius: 6px;
+	border-color: #C6C697;
+	background: lighten(@app-background-color, 10%);
+}
