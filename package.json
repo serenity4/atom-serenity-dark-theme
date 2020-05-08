@@ -2,14 +2,13 @@
   "name": "serenity-dark-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "Dark Theme with a warm orange/purple base color. For Julia users, also colors Juno panes to make them naturally integrated into the theme.
-",
+  "description": "Dark Theme with a warm orange/purple base color. For Julia users, also colors Juno panes to make them naturally integrated into the theme.",
   "keywords": [
     "serenity",
     "dark",
     "theme",
     "ui",
-    "juno",
+    "juno"
   ],
   "repository": "https://github.com/serenity4/atom-serenity-dark-theme",
   "license": "MIT",
